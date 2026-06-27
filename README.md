@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there, I'm Sahana 👋<br><br>💻 Aspiring Full Stack Developer | Python • Django • React.js • JavaScript • SQL<br>I'm an Electronics and Communication Engineering student with a strong interest in software development. I enjoy building practical, user-focused web applications and continuously improving my skills by working on real-world projects and exploring modern technologies.<br><br>🚀 What I'm Currently Working On<br><br>* Building full-stack web applications using Python, Django, React.js, JavaScript, and SQL.<br>* Strengthening problem-solving skills through Data Structures & Algorithms.<br>* Learning REST APIs, scalable application development, and software engineering best practices.<br><br>🤝 Open to Collaborate On<br><br>* Open-source projects<br>* Full-stack web applications<br>* Innovative software development projects<br><br>🛠️ Tech Stack<br><br>Languages:  Python, JavaScript, SQL, C++<br>Frontend:  HTML, CSS, React.js<br>Backend:  Django<br>Tools:  Git, GitHub, VS Code, Postman<br><br>🎯 Career Objective<br><br>Seeking Software Engineering and Full Stack Development opportunities where I can contribute, learn, and build impactful products.<br><br>📫 Connect With Me<br><br>LinkedIn: linkedin.com/in/sahana-a-b44770239<br>Email: asahana2612@gmail.com<br>
 
-<!--
-**Sahanaa26/Sahanaa26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sahana-a-b44770239) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asahana2612@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sahanaa26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sahanaa26&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sahanaa26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Sahanaa26&icon=0&color=0)](https://visitcount.itsvg.in)
