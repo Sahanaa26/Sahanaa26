@@ -14,3 +14,8 @@ Hi there, I'm Sahana A 👋<br><br>💻 Aspiring Full Stack Developer | Python �
 
 ---
 [![](https://komarev.com/ghpvc/?username=Sahanaa26&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sahanaa26/Sahanaa26/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
